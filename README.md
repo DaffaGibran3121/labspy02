@@ -7,7 +7,9 @@
 untuk a di inisiasikan sebagai bilangan pertama, b untuk bilangan kedua, c untuk bilangan ketiga
 
 dengan cara statement if untuk a sebagai bilangan pertama, elif untuk b bilangan kedua, dan else untuk c bilangan ketiga, berikut gambar program dan tulisan programnya
+
 ![Screenshot (65)](https://user-images.githubusercontent.com/92356397/141676320-7cad99e6-5cd7-4bdb-8527-d5bf13096b8c.png)
+
 untuk hasil ketika program dijalankan, bilangan pertama yang terbesar
 ![Screenshot (67)](https://user-images.githubusercontent.com/92356397/141676348-3df6fe90-3510-44da-98ac-64f01936c087.png)
 untuk bilangan kedua yang terbesar ketika program dijalankan
